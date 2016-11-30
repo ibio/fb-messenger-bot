@@ -1,0 +1,15 @@
+add greeting text
+https://secure.ypseek.com/messenger/index.php?controller=thread&action=greet&text=caopangzi
+
+remove greeting text
+https://secure.ypseek.com/messenger/index.php?controller=thread&action=remove_greeting
+
+add start button
+https://secure.ypseek.com/messenger/index.php?controller=thread&action=get_started
+
+
+
+TEST
+
+https://secure.ypseek.com/messenger/index.php?controller=webhook&action=test&case=postback&payload=get-started
+https://secure.ypseek.com/messenger/index.php?controller=webhook&action=test&case=message&text=%230002
